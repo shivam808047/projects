@@ -1,0 +1,7 @@
+
+
+1. Run this command - pip install cx_Freese
+2. run - python setup.py bdist_ms1
+
+thare this project than share :
+dist->Billing system exe file
